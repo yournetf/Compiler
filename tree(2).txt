@@ -1,0 +1,20 @@
+
+├── id: 11 val: t
+
+├── id: 11 val: =
+└── -
+    ├── +
+    │   ├── *
+    │   │   ├── const: 10 val: 4
+    │   │   └── id: 11 val: y
+    │   └── *
+    │       ├── const: 10 val: 9
+    │       └── id: 11 val: y
+    └── const: 10 val: 18
+
+├── id: 11 val: /
+└── +
+    ├── +
+    │   ├── id: 11 val: x
+    │   └── id: 11 val: y
+    └── id: 11 val: z
